@@ -47,8 +47,8 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Full-Stack De
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/divej-ahuja-b35955249/](#)
-- Email: [divejahuja@example.com](mailto:divejahuja@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/divej-ahuja-b35955249/](https://www.linkedin.com/in/divej-ahuja-b35955249/)
+- Email: [divejahuja@gmail.com](mailto:divejahuja@gmail.com)
 
 ---
 ⭐ **Feel free to explore my repositories and contribute!** 🚀
