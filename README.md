@@ -5,10 +5,10 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Full-Stack De
 
 ### 💻 Tech Stack
 - **Languages:** Java, C, Embedded C, C#, SQL, JavaScript, Assembly (LPC-1768)
-- **Frontend:** HTML, CSS, JavaScript, JavaFX
-- **Backend & Databases:** MySQL
+- **Frontend:** HTML, CSS, JavaScript, JavaFX,React
+- **Backend & Databases:** MySQL,MongoDb
 - **Embedded Systems:** LPC-1768
-- **Tools & Platforms:** Git, GitHub, VS Code, Eclipse
+- **Tools & Platforms:** Git, GitHub, VS Code, Eclipse,Postman ,PyCharm 
 
 ### 🏗️ Projects
 - **[Movie Recommendation System](#)** - Built a recommendation engine to suggest movies based on user preferences.
