@@ -21,7 +21,7 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Full-Stack De
 
 ### 📈 GitHub Stats
 
-# 💻 Tech Stack:
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divejahuja@gmail.com) 
