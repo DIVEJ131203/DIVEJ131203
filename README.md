@@ -11,7 +11,10 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Frontend Deve
 - **Tools & Platforms:** Git, GitHub, VS Code, Eclipse
 
 ### 🏗️ Projects
-- **[TX Hummer Time Tracking](#)** - A time tracking & project management tool for service-based companies.
+- **[Movie Recommendation System](#)** - Built a recommendation engine to suggest movies based on user preferences.
+- **[Customer Churn Prediction](#)** - Implemented a predictive model to identify potential customer churn.
+- **[Full Stack LMS](#)** - Developed a Learning Management System with complete backend and frontend integration.
+- **[TAX Hummer Time Tracking](#)** - A time tracking & project management tool for service-based companies.
 - **[Hostel Management System](#)** - Developed a full-stack solution using **HTML, CSS, JavaScript, and MySQL**.
 - **[Collision Prevention System](#)** - Implemented using **Embedded C and LPC-1768**.
 - **Frontend Clones** - Built **Amazon & Spotify clones** using modern web technologies.
@@ -21,8 +24,7 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Frontend Deve
 
 ### 📫 Connect With Me
 - LinkedIn: [linkedin.com/in/divejahuja](#)
-- Portfolio: [divejahuja.dev](#)
-- Email: [divejahuja@example.com](mailto:divejahuja@example.com)
+- Email: [divejahuja@example.com](mailto:divejahuja@gmail.com)
 
 ---
 ⭐ **Feel free to explore my repositories and contribute!** 🚀
