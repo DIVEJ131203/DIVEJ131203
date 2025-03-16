@@ -23,7 +23,7 @@ I am an **Engineering Student at MIT Manipal**, passionate about **Full-Stack De
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DivejAhuja&show_icons=true&theme=radical)
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/divejahuja](#)
+- LinkedIn: [https://www.linkedin.com/in/divej-ahuja-b35955249/](#)
 - Email: [divejahuja@example.com](mailto:divejahuja@gmail.com)
 
 ---
