@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Divej Ahuja
 
 ### 🚀 About Me
-I am an **Engineering Student at MIT Manipal**, passionate about **Frontend Development**, **Embedded Systems**, and **Software Engineering**. I love building interactive web applications and working on **problem-solving challenges**.
+I am an **Engineering Student at MIT Manipal**, passionate about **Full-Stack Development**, **Machine Learning**, and **Software Engineering**. I love building interactive web applications and working on **problem-solving challenges**.
 
 ### 💻 Tech Stack
 - **Languages:** Java, C, Embedded C, C#, SQL, JavaScript, Assembly (LPC-1768)
